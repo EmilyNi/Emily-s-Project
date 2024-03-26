@@ -4,3 +4,16 @@ hello timo :)
 master (main) 
 QA
 branch - emily001 MES-001
+
+
+git add test.txt (git add .) (傳到暫存區)
+git status (看改了什麼)
+git commit -m "註解" (確認暫存區有甚麼)
+git push (上傳)
+
+
+ls 
+cd ..
+clear
+code . (開整個資料夾的VSCode)
+code -n (開新的VSCode 視窗)
